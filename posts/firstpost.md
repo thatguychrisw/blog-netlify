@@ -20,7 +20,7 @@ Capitalize on low hanging fruit to identify a ballpark value added activity to b
 // this is a command
 function myCommand() {
 	let counter = 0;
-    TEST
+    console.log('test');
 	counter++;
 }
 ```
